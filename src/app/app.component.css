@@ -1,0 +1,11 @@
+mat-drawer-container {
+    height: 90vh;
+}
+
+mat-drawer{
+    width: 250px;
+}
+
+mat-drawer-content{
+    padding-top: 20px;
+}

@@ -1,0 +1,35 @@
+.container{
+    background-color:beige;
+}
+.profile{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px;
+}
+
+.profile h3{
+    font-size: 22px;
+    font-weight: 500;
+    padding-bottom: 0;
+}
+
+.profile h4{
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: -10px;
+}
+.itemlist{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px 0px 0px 15px;
+}
+
+.itemlist a{
+    color: black;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}

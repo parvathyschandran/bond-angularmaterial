@@ -1,0 +1,10 @@
+mat-toolbar{
+    background-color:rgba(153, 16, 16, 0.76);
+    color: white;
+    display: flex;
+    justify-content:space-between;
+}
+
+.admin{
+    font-size: 25px;
+}
